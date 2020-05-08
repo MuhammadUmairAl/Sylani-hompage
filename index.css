@@ -1,0 +1,27 @@
+.widget>li{
+    padding: .5vw;
+    
+}
+.widget a{
+    color: white;
+}
+
+.topbar{
+   padding: 5px 0px;
+}
+.button{
+    padding: 0px 5px;
+}
+.bt{
+    padding: 5px 10px;
+}
+.item-nav li{
+    padding: .5vw;
+   
+   float: left;
+   display: block;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
